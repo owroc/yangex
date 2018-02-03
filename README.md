@@ -1,2 +1,2 @@
 # yangex
-Docker container for Cisco Yang Explorer
+Docker image for Cisco Yang Explorer
